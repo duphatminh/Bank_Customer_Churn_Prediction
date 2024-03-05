@@ -1,0 +1,14 @@
+﻿click
+colorama
+Flask
+itsdangerous
+Jinja2
+keras
+MarkupSafe
+numpy
+pandas
+matplotlib
+seaborn
+Werkzeug
+tensorflow
+scikit-learn
